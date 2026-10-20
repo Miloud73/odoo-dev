@@ -1,10 +1,10 @@
 {
     "name": "Library Book",
-    "version": "1.0.0",
-    "category": "Services",
+    "version": "18.0.1.0.0",
     "summary": "Manage library books",
+    "category": "Tools",
     "depends": ["base"],
-    "data": [],
+    "data": ["views/book_views.xml",],
     "installable": True,
     "application": True,
 }
